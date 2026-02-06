@@ -1,0 +1,3 @@
+boto3==1.24.18
+azure-mgmt-resource==21.0.0
+azure-mgmt-storage==20.0.0
